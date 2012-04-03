@@ -117,10 +117,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\AWSSDK.dll" />
+    <Content Include="bin\EntityFramework.dll" />
+    <Content Include="bin\EntityFramework.xml" />
+    <Content Include="bin\log4net.dll" />
+    <Content Include="bin\log4net.xml" />
+    <Content Include="bin\Microsoft.VisualStudio.Web.Mvc.Extensibility.1.0.dll" />
+    <Content Include="bin\Microsoft.Web.Helpers.dll" />
+    <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="bin\Microsoft.Web.Infrastructure.xml" />
+    <Content Include="bin\MvcPaging.dll" />
     <Content Include="bin\NewsAppWebRole.dll" />
     <Content Include="bin\NewsAppWebRole.pdb" />
     <Content Include="bin\PagedList.dll" />
-    <Content Include="bin\PagedList.xml" />
     <Content Include="Content\themes\base\images\bkg-eyebrow-announce.gif" />
     <Content Include="Content\themes\base\images\bkg-footer.gif" />
     <Content Include="Content\themes\base\images\bkg-nav-sec.gif" />

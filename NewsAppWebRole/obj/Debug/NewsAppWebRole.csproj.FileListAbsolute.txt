@@ -15,3 +15,13 @@ C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWe
 C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\paypal_base.dll
 C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\log4net.xml
 C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\obj\Debug\NewsAppWebRole.csprojResolveAssemblyReference.cache
+C:\ZambianNews\NewsAppWebRole\bin\NewsAppWebRole.dll
+C:\ZambianNews\NewsAppWebRole\bin\NewsAppWebRole.pdb
+C:\ZambianNews\NewsAppWebRole\bin\PayPal.dll
+C:\ZambianNews\NewsAppWebRole\bin\paypal_base.dll
+C:\ZambianNews\NewsAppWebRole\bin\EntityFramework.xml
+C:\ZambianNews\NewsAppWebRole\bin\log4net.xml
+C:\ZambianNews\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.xml
+C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.csprojResolveAssemblyReference.cache
+C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.dll
+C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.pdb
