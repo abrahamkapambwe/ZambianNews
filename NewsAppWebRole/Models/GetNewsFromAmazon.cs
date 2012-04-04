@@ -243,7 +243,7 @@ namespace Newsza.Models
                                     comment.Likes = Convert.ToInt32(attribute.Value);
                                     break;
                                 case "CommentItem":
-                                    comment.CommentItem = GetTheHtml(attribute.Value);
+                                    comment.CommentItem = attribute.Value.Contains("/") ? GetTheHtml(attribute.Value) : "";
                                     break;
                                 case "CommentReplyID":
                                     comment.CommentReplyID = attribute.Value;
@@ -373,6 +373,7 @@ namespace Newsza.Models
 
         private static string GetTheHtml(string p)
         {
+        
             HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create(p);
             HttpWebResponse response = (HttpWebResponse)webRequest.GetResponse();
             Stream stream = response.GetResponseStream();
