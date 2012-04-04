@@ -148,76 +148,6 @@
     <Content Include="Content\themes\base\jquery.ui.theme.css" />
     <Content Include="Content\themes\SiteCustom.css" />
     <Content Include="Global.asax" />
-    <Content Include="packages\AWSSDK.1.4.6.3\lib\AWSSDK.dll" />
-    <Content Include="packages\jQuery.1.7.1\Content\Scripts\jquery-1.7.1-vsdoc.js" />
-    <Content Include="packages\jQuery.1.7.1\Content\Scripts\jquery-1.7.1.js" />
-    <Content Include="packages\jQuery.1.7.1\Content\Scripts\jquery-1.7.1.min.js" />
-    <Content Include="packages\jQuery.1.7.1\Tools\jquery-1.7.1-vsdoc-para.js" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-icons_222222_256x240.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-icons_454545_256x240.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-icons_888888_256x240.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.accordion.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.all.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.autocomplete.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.base.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.button.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.core.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.datepicker.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.dialog.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.progressbar.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.resizable.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.selectable.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.slider.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.tabs.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Content\themes\base\jquery.ui.theme.css" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Scripts\jquery-ui-1.8.18.js" />
-    <Content Include="packages\jQuery.UI.Combined.1.8.18\Content\Scripts\jquery-ui-1.8.18.min.js" />
-    <Content Include="packages\jQuery.vsdoc.1.6\Content\README.jQuery.vsdoc.txt" />
-    <Content Include="packages\log4net.1.2.10\lib\1.0\log4net.dll" />
-    <Content Include="packages\log4net.1.2.10\lib\1.0\log4net.xml" />
-    <Content Include="packages\log4net.1.2.10\lib\1.1\log4net.dll" />
-    <Content Include="packages\log4net.1.2.10\lib\1.1\log4net.xml" />
-    <Content Include="packages\log4net.1.2.10\lib\2.0\log4net.dll" />
-    <Content Include="packages\log4net.1.2.10\lib\2.0\log4net.xml" />
-    <Content Include="packages\microsoft-web-helpers.1.15\content\Release Notes - Microsoft.Web.Helpers.txt" />
-    <Content Include="packages\microsoft-web-helpers.1.15\lib\Microsoft.Web.Helpers.dll" />
-    <Content Include="packages\PagedList.1.14\lib\net40\PagedList.dll" />
-    <Content Include="packages\PagedList.1.14\lib\net40\PagedList.xml" />
-    <Content Include="PayPalHelper\Docs\startHere.htm" />
-    <Content Include="PayPalHelper\Docs\startHere.html\html\DocSet_default.html" />
-    <Content Include="PayPalHelper\Docs\startHere.html\html\images\19fb5f20-19a2-4d76-a2b0-fd753895da1e.png" />
-    <Content Include="PayPalHelper\Docs\startHere.html\html\images\45d9257f-f452-491c-a16e-20d3cd1370db.png" />
-    <Content Include="PayPalHelper\Docs\startHere.html\html\images\8b52f348-d854-4a8f-9132-863e0fce5da9.png" />
-    <Content Include="PayPalHelper\Docs\startHere.html\html\images\c3431829-bc93-4403-921f-b35745aedb75.png" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\Classic.css" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\collall.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\collapse_all.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\copycode.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\copycodeHighlight.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\Dropdown.js" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\drpdown.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\drpdown_orange.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\EventUtilities.js" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\exp.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\expall.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\expand_all.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\note.gif" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\samples.js" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\script.js" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\script_chm.js" />
-    <Content Include="PayPalHelper\Docs\startHere.html\local\SplitScreen.js" />
-    <Content Include="README.jQuery.vsdoc.txt" />
-    <Content Include="Release Notes - Microsoft.Web.Helpers.txt" />
     <Content Include="Scripts\jquery-1.5.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.5.1.js" />
     <Content Include="Scripts\jquery-1.5.1.min.js" />
@@ -268,7 +198,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="aspnet_client\system_web\4_0_30319\" />
     <Folder Include="bin\" />
-    <Folder Include="packages\MvcPaging.1.0.3\lib\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\_Layout.cshtml" />
@@ -278,20 +207,6 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
-    <None Include="packages\jQuery.1.7.1\jQuery.1.7.1.nupkg" />
-    <None Include="packages\jQuery.1.7.1\Tools\install.ps1" />
-    <None Include="packages\jQuery.1.7.1\Tools\uninstall.ps1" />
-    <None Include="packages\jQuery.UI.Combined.1.8.18\jQuery.UI.Combined.1.8.18.nupkg" />
-    <None Include="packages\jQuery.vsdoc.1.6\jQuery.vsdoc.1.6.nupkg" />
-    <None Include="packages\log4net.1.2.10\log4net.1.2.10.nupkg" />
-    <None Include="packages\microsoft-web-helpers.1.15\microsoft-web-helpers.1.15.nupkg" />
-    <None Include="packages\MvcPaging.1.0.3\content\Views\web.config.transform" />
-    <None Include="packages\MvcPaging.1.0.3\content\web.config.transform" />
-    <None Include="packages\MvcPaging.1.0.3\MvcPaging.1.0.3.nupkg" />
-    <None Include="packages\PagedList.1.14\PagedList.1.14.nupkg" />
-    <Content Include="packages\repositories.config" />
-    <None Include="PayPalHelper\Docs\startHere.docx" />
-    <None Include="PayPalHelper\Docs\startHere.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -342,5 +257,4 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
-  <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
 </Project>

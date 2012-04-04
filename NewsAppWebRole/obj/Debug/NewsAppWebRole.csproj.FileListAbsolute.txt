@@ -1,32 +1,9 @@
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\NewsAppWebRole.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\NewsAppWebRole.pdb
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\obj\Debug\NewsAppWebRole.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\obj\Debug\NewsAppWebRole.pdb
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\EntityFramework.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\Microsoft.VisualStudio.Web.Mvc.Extensibility.1.0.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\EntityFramework.xml
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.xml
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\Microsoft.Web.Helpers.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\AWSSDK.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\log4net.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\MvcPaging.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\PayPal.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\paypal_base.dll
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\bin\log4net.xml
-C:\Users\Abraham\Documents\Visual Studio 2010\Projects\NewsApplication\NewsAppWebRole\obj\Debug\NewsAppWebRole.csprojResolveAssemblyReference.cache
 C:\ZambianNews\NewsAppWebRole\bin\NewsAppWebRole.dll
 C:\ZambianNews\NewsAppWebRole\bin\NewsAppWebRole.pdb
-C:\ZambianNews\NewsAppWebRole\bin\PayPal.dll
-C:\ZambianNews\NewsAppWebRole\bin\paypal_base.dll
+C:\ZambianNews\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.dll
 C:\ZambianNews\NewsAppWebRole\bin\log4net.xml
 C:\ZambianNews\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.xml
+C:\ZambianNews\NewsAppWebRole\bin\PagedList.xml
+C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.csprojResolveAssemblyReference.cache
 C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.dll
 C:\ZambianNews\NewsAppWebRole\obj\Debug\NewsAppWebRole.pdb
-C:\ZambianNews\NewsAppWebRole\bin\AWSSDK.dll
-C:\ZambianNews\NewsAppWebRole\bin\log4net.dll
-C:\ZambianNews\NewsAppWebRole\bin\Microsoft.Web.Helpers.dll
-C:\ZambianNews\NewsAppWebRole\bin\Microsoft.Web.Infrastructure.dll
-C:\ZambianNews\NewsAppWebRole\bin\MvcPaging.dll
-C:\ZambianNews\NewsAppWebRole\bin\PagedList.dll
-C:\ZambianNews\NewsAppWebRole\bin\PagedList.xml
